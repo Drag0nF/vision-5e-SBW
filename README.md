@@ -3,6 +3,10 @@
 [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fvision-5e&colorB=blueviolet)](https://forge-vtt.com/bazaar#package=vision-5e)
 [![License](https://img.shields.io/github/license/dev7355608/vision-5e?label=License)](LICENSE)
 
+# Fork of Vision 5e
+The purpose of this fork is to allow players to enter the Space Between Worlds- functionally the same, but separate to vision 5e's 'ethereal'
+
+
 # Vision 5e (Foundry VTT Module)
 
 Additional and improved Vision/Detection modes for D&D 5e including automatic vision management based on the actor's senses, feats, and active effects.
