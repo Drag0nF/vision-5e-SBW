@@ -81,6 +81,7 @@ Hooks.once("init", () => {
     CONFIG.specialStatusEffects.POISONED = "poisoned";
     CONFIG.specialStatusEffects.POISONOUS = "poisonous";
     CONFIG.specialStatusEffects.REVENANCE = "revenance";
+    CONFIG.specialStatusEffects.SPACE_BETWEEN_WORLDS = "spaceBetweenWorlds";
     CONFIG.specialStatusEffects.SLEEPING = "sleeping";
     CONFIG.specialStatusEffects.THINKING = "thinking";
     CONFIG.specialStatusEffects.UMBRAL_SIGHT = "umbralSight";
