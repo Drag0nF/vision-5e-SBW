@@ -1,6 +1,6 @@
 {
-  "id": "vision-5e",
-  "title": "Vision 5e",
+  "id": "vision-5e-SBW",
+  "title": "Vision 5e EDIT",
   "description": "Vision Automation for D&D 5e",
   "authors": [
     {
@@ -59,11 +59,11 @@
       }
     ]
   },
-  "url": "https://github.com/dev7355608/vision-5e",
-  "manifest": "https://github.com/dev7355608/vision-5e/releases/latest/download/module.json",
+  "url": "hhttps://github.com/Drag0nF/vision-5e-SBW",
+  "manifest": "https://github.com/Drag0nF/vision-5e-SBW/blob/main/module.json",
   "download": "https://github.com/dev7355608/vision-5e/releases/download/v2.5.5/module.zip",
-  "changelog": "https://github.com/dev7355608/vision-5e/releases/tag/v2.5.5",
+  "changelog": "",
   "bugs": "https://github.com/dev7355608/vision-5e/issues",
-  "readme": "https://raw.githubusercontent.com/dev7355608/vision-5e/main/README.md",
+  "readme": "https://github.com/Drag0nF/vision-5e-SBW/blob/main/README.md",
   "license": "https://raw.githubusercontent.com/dev7355608/vision-5e/main/LICENSE"
 }
